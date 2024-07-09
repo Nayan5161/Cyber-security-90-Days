@@ -4,5 +4,5 @@ Welcome to my Cyber Security Internship Diary This repository is a day-by-day ac
 ## [Day 2](https://github.com/Nayan5161/Cyber-security-90-Days/tree/main/Day%202): Introduction to Linux
 ## [Day 3](https://github.com/Nayan5161/Cyber-security-90-Days/tree/main/Day%203): Introduction to Windows
 ## [Day 4](https://github.com/Nayan5161/Cyber-security-90-Days/tree/main/Day%204): Networking Scan-1
-## [Day 5](https://github.com/Nayan5161/Cyber-security-90-Days/tree/main/Day%205): Networking Scan-2
+## [Day 5](https://github.com/Nayan5161/Cyber-security-90-Days/tree/main/Day%205%20): Networking Scan-2
 Stay tuned for more updates as I continue to explore the fascinating world of Cyber Security. Your feedback and suggestions are welcome as I embark on this learning journey.
